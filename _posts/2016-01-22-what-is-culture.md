@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T20:13:20.128Z'
+datePublished: '2016-01-22T20:13:20.110Z'
 dateModified: '2016-01-22T20:13:15.368Z'
 title: WHAT IS CULTURE?
 author: []
