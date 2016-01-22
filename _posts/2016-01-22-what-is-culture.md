@@ -1,23 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T20:11:13.873Z'
-dateModified: '2016-01-22T20:11:01.659Z'
+datePublished: '2016-01-22T20:13:20.128Z'
+dateModified: '2016-01-22T20:13:15.368Z'
 title: WHAT IS CULTURE?
 author: []
+sourcePath: _posts/2016-01-22-what-is-culture.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-what-is-culture.md
-published: true
+url: what-is-culture/index.html
 _type: Blurb
 
 ---
