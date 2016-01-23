@@ -2,6 +2,7 @@ name: CultureMatters
 favicon: null
 layout_spectrum: 0.24282
 typography_spectrum: 0.75523
+title: Culture Matters
 cta:
   domain: null
   bucket: null
