@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T18:19:36.292Z'
-dateModified: '2016-01-24T18:13:49.075Z'
+datePublished: '2016-01-24T18:22:52.900Z'
+dateModified: '2016-01-24T18:22:49.830Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-what-is-culture.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49cbb78bef4604ad96b0100e518400778be8c4d9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e5bd74d396e9e871a86f2600cd89e70b744be0c.png)
 
 ## 
 
