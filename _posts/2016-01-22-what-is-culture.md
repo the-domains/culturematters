@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T18:22:53.031Z'
-dateModified: '2016-01-24T18:22:49.830Z'
+datePublished: '2016-01-24T18:26:39.151Z'
+dateModified: '2016-01-24T18:24:19.349Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-what-is-culture.md
