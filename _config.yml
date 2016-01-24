@@ -1,7 +1,7 @@
 name: CultureMatters
 favicon: null
 layout_spectrum: 0.58749
-typography_spectrum: 0.75523
+typography_spectrum: 0.74741
 title: Culture Matters
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#0a5a7a'
-    - '#5f8c9b'
-    - '#a6b2ae'
-    - '#91160b'
-  brandStrength: 0.6875
+    - '#fb0d1b'
+    - '#010101'
+    - '#985e13'
+    - '#0c6d38'
+    - '#7aa0cc'
+  brandStrength: 0.625
   lightness: 0.6875
   saturation: 0.4375
-  rhythmicContrast: 0.25
+  rhythmicContrast: 1
 purpose: []
