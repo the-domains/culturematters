@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T02:37:10.274Z'
-dateModified: '2016-01-24T02:37:08.552Z'
+datePublished: '2016-01-24T17:53:17.553Z'
+dateModified: '2016-01-24T17:53:16.260Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-what-is-culture.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: what-is-culture/index.html
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a7bde429602809f70def0f8bf7aae5dd860e1e6.png)
