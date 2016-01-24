@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Culture Matters]]></title>
+        <description><![CDATA[Culture Matters]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 19:27:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8fe0102-3f3b-4039-8301-3c6fdf85c119.jpg" alt="What is culture?  (My best guess)" title="">]]></description>
+            <link>undefined25ab5a49-335d-42b5-901e-e1e61079d880/index.html</link>
+            <guid isPermaLink="false">25ab5a49-335d-42b5-901e-e1e61079d880</guid>
+            <pubDate>Sun, 24 Jan 2016 19:27:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
